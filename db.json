@@ -1,16 +1,772 @@
 {
   "units": [
     {
-      "id": 1,
+      "id": "1",
       "block": "731A",
-      "unit": "#10-100",
+      "floor": "10",
+      "unit": "10-100",
+      "unitnum": "100",
       "price": "786800"
     },
     {
-      "id": 2,
+      "id": "2",
       "block": "731A",
-      "unit": "#10-102",
+      "floor": "10",
+      "unit": "10-102",
+      "unitnum": "102",
       "price": "786800"
+    },
+    {
+      "id": "3",
+      "block": "731A",
+      "floor": "10",
+      "unit": "10-104",
+      "unitnum": "104",
+      "price": "786800"
+    },
+    {
+      "id": "4",
+      "block": "731A",
+      "floor": "10",
+      "unit": "10-106",
+      "unitnum": "106",
+      "price": "786800"
+    },
+    {
+      "id": "5",
+      "block": "731A",
+      "floor": "9",
+      "unit": "9-100",
+      "unitnum": "100",
+      "price": "783600"
+    },
+    {
+      "id": "6",
+      "block": "731A",
+      "floor": "9",
+      "unit": "9-102",
+      "unitnum": "102",
+      "price": "783600"
+    },
+    {
+      "id": "7",
+      "block": "731A",
+      "floor": "9",
+      "unit": "9-104",
+      "unitnum": "104",
+      "price": "783600"
+    },
+    {
+      "id": "8",
+      "block": "731A",
+      "floor": "9",
+      "unit": "9-106",
+      "unitnum": "106",
+      "price": "783600"
+    },
+    {
+      "id": "9",
+      "block": "731A",
+      "floor": "8",
+      "unit": "8-100",
+      "unitnum": "100",
+      "price": "780400"
+    },
+    {
+      "id": "10",
+      "block": "731A",
+      "floor": "8",
+      "unit": "8-102",
+      "unitnum": "102",
+      "price": "780400"
+    },
+    {
+      "id": "11",
+      "block": "731A",
+      "floor": "8",
+      "unit": "8-104",
+      "unitnum": "104",
+      "price": "780400"
+    },
+    {
+      "id": "12",
+      "block": "731A",
+      "floor": "8",
+      "unit": "8-106",
+      "unitnum": "106",
+      "price": "780400"
+    },
+    {
+      "id": "13",
+      "block": "731A",
+      "floor": "7",
+      "unit": "7-100",
+      "unitnum": "100",
+      "price": "772300"
+    },
+    {
+      "id": "14",
+      "block": "731A",
+      "floor": "7",
+      "unit": "7-102",
+      "unitnum": "102",
+      "price": "772300"
+    },
+    {
+      "id": "15",
+      "block": "731A",
+      "floor": "7",
+      "unit": "7-104",
+      "unitnum": "104",
+      "price": "772300"
+    },
+    {
+      "id": "16",
+      "block": "731A",
+      "floor": "7",
+      "unit": "7-106",
+      "unitnum": "106",
+      "price": "772300"
+    },
+    {
+      "id": "17",
+      "block": "731A",
+      "floor": "6",
+      "unit": "6-100",
+      "unitnum": "100",
+      "price": "764200"
+    },
+    {
+      "id": "18",
+      "block": "731A",
+      "floor": "6",
+      "unit": "6-102",
+      "unitnum": "102",
+      "price": "764200"
+    },
+    {
+      "id": "19",
+      "block": "731A",
+      "floor": "6",
+      "unit": "6-104",
+      "unitnum": "104",
+      "price": "764200"
+    },
+    {
+      "id": "20",
+      "block": "731A",
+      "floor": "6",
+      "unit": "6-106",
+      "unitnum": "106",
+      "price": "764200"
+    },
+    {
+      "id": "21",
+      "block": "731A",
+      "floor": "5",
+      "unit": "5-100",
+      "unitnum": "100",
+      "price": "756100"
+    },
+    {
+      "id": "22",
+      "block": "731A",
+      "floor": "5",
+      "unit": "5-102",
+      "unitnum": "102",
+      "price": "756100"
+    },
+    {
+      "id": "23",
+      "block": "731A",
+      "floor": "5",
+      "unit": "5-104",
+      "unitnum": "104",
+      "price": "756100"
+    },
+    {
+      "id": "24",
+      "block": "731A",
+      "floor": "5",
+      "unit": "5-106",
+      "unitnum": "106",
+      "price": "756100"
+    },
+    {
+      "id": "25",
+      "block": "731B",
+      "floor": "10",
+      "unit": "10-128",
+      "unitnum": "128",
+      "price": "803000"
+    },
+    {
+      "id": "26",
+      "block": "731B",
+      "floor": "10",
+      "unit": "10-130",
+      "unitnum": "130",
+      "price": "803000"
+    },
+    {
+      "id": "27",
+      "block": "731B",
+      "floor": "9",
+      "unit": "9-128",
+      "unitnum": "128",
+      "price": "799800"
+    },
+    {
+      "id": "28",
+      "block": "731B",
+      "floor": "9",
+      "unit": "9-130",
+      "unitnum": "130",
+      "price": "799800"
+    },
+    {
+      "id": "29",
+      "block": "731B",
+      "floor": "8",
+      "unit": "8-128",
+      "unitnum": "128",
+      "price": "796600"
+    },
+    {
+      "id": "30",
+      "block": "731B",
+      "floor": "8",
+      "unit": "8-130",
+      "unitnum": "130",
+      "price": "796600"
+    },
+    {
+      "id": "31",
+      "block": "731B",
+      "floor": "7",
+      "unit": "7-128",
+      "unitnum": "128",
+      "price": "788500"
+    },
+    {
+      "id": "32",
+      "block": "731B",
+      "floor": "7",
+      "unit": "7-130",
+      "unitnum": "130",
+      "price": "788500"
+    },
+    {
+      "id": "33",
+      "block": "731B",
+      "floor": "6",
+      "unit": "6-128",
+      "unitnum": "128",
+      "price": "780400"
+    },
+    {
+      "id": "34",
+      "block": "731B",
+      "floor": "6",
+      "unit": "6-130",
+      "unitnum": "130",
+      "price": "780400"
+    },
+    {
+      "id": "35",
+      "block": "731B",
+      "floor": "5",
+      "unit": "5-128",
+      "unitnum": "128",
+      "price": "772300"
+    },
+    {
+      "id": "36",
+      "block": "731B",
+      "floor": "5",
+      "unit": "5-130",
+      "unitnum": "130",
+      "price": "772300"
+    },
+    {
+      "id": "37",
+      "block": "731C",
+      "floor": "10",
+      "unit": "10-134",
+      "unitnum": "134",
+      "price": "797900"
+    },
+    {
+      "id": "38",
+      "block": "731B",
+      "floor": "10",
+      "unit": "10-136",
+      "unitnum": "136",
+      "price": "797900"
+    },
+    {
+      "id": "39",
+      "block": "731B",
+      "floor": "9",
+      "unit": "9-134",
+      "unitnum": "134",
+      "price": "791700"
+    },
+    {
+      "id": "40",
+      "block": "731B",
+      "floor": "9",
+      "unit": "9-136",
+      "unitnum": "136",
+      "price": "791700"
+    },
+    {
+      "id": "41",
+      "block": "731B",
+      "floor": "8",
+      "unit": "8-134",
+      "unitnum": "134",
+      "price": "788500"
+    },
+    {
+      "id": "42",
+      "block": "731B",
+      "floor": "8",
+      "unit": "8-136",
+      "unitnum": "136",
+      "price": "788500"
+    },
+    {
+      "id": "43",
+      "block": "731B",
+      "floor": "7",
+      "unit": "7-134",
+      "unitnum": "134",
+      "price": "780400"
+    },
+    {
+      "id": "44",
+      "block": "731B",
+      "floor": "7",
+      "unit": "7-136",
+      "unitnum": "136",
+      "price": "780400"
+    },
+    {
+      "id": "45",
+      "block": "731B",
+      "floor": "6",
+      "unit": "6-134",
+      "unitnum": "134",
+      "price": "772300"
+    },
+    {
+      "id": "46",
+      "block": "731B",
+      "floor": "6",
+      "unit": "6-136",
+      "unitnum": "136",
+      "price": "772300"
+    },
+    {
+      "id": "47",
+      "block": "731B",
+      "floor": "5",
+      "unit": "5-134",
+      "unitnum": "134",
+      "price": "764200"
+    },
+    {
+      "id": "48",
+      "block": "731B",
+      "floor": "5",
+      "unit": "5-136",
+      "unitnum": "136",
+      "price": "764200"
+    },
+    {
+      "id": "49",
+      "block": "732A",
+      "floor": "10",
+      "unit": "10-162",
+      "unitnum": "162",
+      "price": "786800"
+    },
+    {
+      "id": "50",
+      "block": "732A",
+      "floor": "10",
+      "unit": "10-164",
+      "unitnum": "164",
+      "price": "786800"
+    },
+    {
+      "id": "51",
+      "block": "732A",
+      "floor": "10",
+      "unit": "10-166",
+      "unitnum": "166",
+      "price": "786800"
+    },
+    {
+      "id": "52",
+      "block": "732A",
+      "floor": "10",
+      "unit": "10-168",
+      "unitnum": "168",
+      "price": "786800"
+    },
+    {
+      "id": "53",
+      "block": "732A",
+      "floor": "9",
+      "unit": "9-162",
+      "unitnum": "162",
+      "price": "783600"
+    },
+    {
+      "id": "54",
+      "block": "732A",
+      "floor": "9",
+      "unit": "9-164",
+      "unitnum": "164",
+      "price": "783600"
+    },
+    {
+      "id": "55",
+      "block": "732A",
+      "floor": "9",
+      "unit": "9-166",
+      "unitnum": "166",
+      "price": "783600"
+    },
+    {
+      "id": "56",
+      "block": "732A",
+      "floor": "9",
+      "unit": "9-168",
+      "unitnum": "168",
+      "price": "783600"
+    },
+    {
+      "id": "57",
+      "block": "732A",
+      "floor": "8",
+      "unit": "8-162",
+      "unitnum": "162",
+      "price": "780400"
+    },
+    {
+      "id": "58",
+      "block": "732A",
+      "floor": "8",
+      "unit": "8-164",
+      "unitnum": "164",
+      "price": "780400"
+    },
+    {
+      "id": "59",
+      "block": "732A",
+      "floor": "8",
+      "unit": "8-166",
+      "unitnum": "166",
+      "price": "780400"
+    },
+    {
+      "id": "60",
+      "block": "732A",
+      "floor": "8",
+      "unit": "8-168",
+      "unitnum": "168",
+      "price": "780400"
+    },
+    {
+      "id": "61",
+      "block": "732A",
+      "floor": "7",
+      "unit": "7-162",
+      "unitnum": "162",
+      "price": "772300"
+    },
+    {
+      "id": "62",
+      "block": "732A",
+      "floor": "7",
+      "unit": "7-164",
+      "unitnum": "164",
+      "price": "772300"
+    },
+    {
+      "id": "63",
+      "block": "732A",
+      "floor": "7",
+      "unit": "7-166",
+      "unitnum": "166",
+      "price": "772300"
+    },
+    {
+      "id": "64",
+      "block": "732A",
+      "floor": "7",
+      "unit": "7-168",
+      "unitnum": "168",
+      "price": "772300"
+    },
+    {
+      "id": "65",
+      "block": "732A",
+      "floor": "6",
+      "unit": "6-162",
+      "unitnum": "162",
+      "price": "764200"
+    },
+    {
+      "id": "66",
+      "block": "732A",
+      "floor": "6",
+      "unit": "6-164",
+      "unitnum": "164",
+      "price": "764200"
+    },
+    {
+      "id": "67",
+      "block": "732A",
+      "floor": "6",
+      "unit": "6-166",
+      "unitnum": "166",
+      "price": "764200"
+    },
+    {
+      "id": "68",
+      "block": "732A",
+      "floor": "6",
+      "unit": "6-168",
+      "unitnum": "168",
+      "price": "764200"
+    },
+    {
+      "id": "69",
+      "block": "732A",
+      "floor": "5",
+      "unit": "5-162",
+      "unitnum": "162",
+      "price": "756100"
+    },
+    {
+      "id": "70",
+      "block": "732A",
+      "floor": "5",
+      "unit": "5-164",
+      "unitnum": "164",
+      "price": "756100"
+    },
+    {
+      "id": "71",
+      "block": "732A",
+      "floor": "5",
+      "unit": "5-166",
+      "unitnum": "166",
+      "price": "756100"
+    },
+    {
+      "id": "72",
+      "block": "732A",
+      "floor": "5",
+      "unit": "5-168",
+      "unitnum": "168",
+      "price": "756100"
+    },
+    {
+      "id": "73",
+      "block": "732B",
+      "floor": "10",
+      "unit": "10-172",
+      "unitnum": "172",
+      "price": "786800"
+    },
+    {
+      "id": "74",
+      "block": "732B",
+      "floor": "10",
+      "unit": "10-174",
+      "unitnum": "174",
+      "price": "786800"
+    },
+    {
+      "id": "75",
+      "block": "732B",
+      "floor": "10",
+      "unit": "10-176",
+      "unitnum": "176",
+      "price": "786800"
+    },
+    {
+      "id": "76",
+      "block": "732B",
+      "floor": "10",
+      "unit": "10-178",
+      "unitnum": "178",
+      "price": "786800"
+    },
+    {
+      "id": "77",
+      "block": "732B",
+      "floor": "9",
+      "unit": "9-172",
+      "unitnum": "172",
+      "price": "783600"
+    },
+    {
+      "id": "78",
+      "block": "732B",
+      "floor": "9",
+      "unit": "9-174",
+      "unitnum": "174",
+      "price": "783600"
+    },
+    {
+      "id": "79",
+      "block": "732B",
+      "floor": "9",
+      "unit": "9-176",
+      "unitnum": "176",
+      "price": "783600"
+    },
+    {
+      "id": "80",
+      "block": "732B",
+      "floor": "9",
+      "unit": "9-178",
+      "unitnum": "178",
+      "price": "783600"
+    },
+    {
+      "id": "81",
+      "block": "732B",
+      "floor": "8",
+      "unit": "8-172",
+      "unitnum": "172",
+      "price": "780400"
+    },
+    {
+      "id": "82",
+      "block": "732B",
+      "floor": "8",
+      "unit": "8-174",
+      "unitnum": "174",
+      "price": "780400"
+    },
+    {
+      "id": "83",
+      "block": "732B",
+      "floor": "8",
+      "unit": "8-176",
+      "unitnum": "176",
+      "price": "780400"
+    },
+    {
+      "id": "84",
+      "block": "732B",
+      "floor": "8",
+      "unit": "8-178",
+      "unitnum": "178",
+      "price": "780400"
+    },
+    {
+      "id": "85",
+      "block": "732B",
+      "floor": "7",
+      "unit": "7-172",
+      "unitnum": "172",
+      "price": "772300"
+    },
+    {
+      "id": "86",
+      "block": "732B",
+      "floor": "7",
+      "unit": "7-174",
+      "unitnum": "174",
+      "price": "772300"
+    },
+    {
+      "id": "87",
+      "block": "732B",
+      "floor": "7",
+      "unit": "7-176",
+      "unitnum": "176",
+      "price": "772300"
+    },
+    {
+      "id": "88",
+      "block": "732B",
+      "floor": "7",
+      "unit": "7-178",
+      "unitnum": "178",
+      "price": "772300"
+    },
+    {
+      "id": "89",
+      "block": "732B",
+      "floor": "6",
+      "unit": "6-172",
+      "unitnum": "172",
+      "price": "764200"
+    },
+    {
+      "id": "90",
+      "block": "732B",
+      "floor": "6",
+      "unit": "6-174",
+      "unitnum": "174",
+      "price": "764200"
+    },
+    {
+      "id": "91",
+      "block": "732B",
+      "floor": "6",
+      "unit": "6-176",
+      "unitnum": "176",
+      "price": "764200"
+    },
+    {
+      "id": "92",
+      "block": "732B",
+      "floor": "6",
+      "unit": "6-178",
+      "unitnum": "178",
+      "price": "764200"
+    },
+    {
+      "id": "93",
+      "block": "732B",
+      "floor": "5",
+      "unit": "5-172",
+      "unitnum": "172",
+      "price": "756100"
+    },
+    {
+      "id": "94",
+      "block": "732B",
+      "floor": "5",
+      "unit": "5-174",
+      "unitnum": "174",
+      "price": "756100"
+    },
+    {
+      "id": "95",
+      "block": "732B",
+      "floor": "5",
+      "unit": "5-176",
+      "unitnum": "176",
+      "price": "756100"
+    },
+    {
+      "id": "96",
+      "block": "732B",
+      "floor": "5",
+      "unit": "5-178",
+      "unitnum": "178",
+      "price": "756100"
     }
   ]
 }
